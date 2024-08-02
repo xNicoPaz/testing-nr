@@ -1,0 +1,1 @@
+puts ENV["MYNAME"] + " " + ENV["MYLASTNAME"]
